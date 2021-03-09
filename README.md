@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 #### 神策网络科技 2021 校招开始了，可内推~~~
 
 [关于神策](https://www.sensorsdata.cn/)
-
-![神策网络科技2021校招内推二维码](神策2021%20校招内推二维码.jpg)
