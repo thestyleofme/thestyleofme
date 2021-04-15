@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 神策网络科技 2021 校招开始了，可内推~~~
+#### 神策数据内推~~~
 
 [关于神策](https://www.sensorsdata.cn/)
 
