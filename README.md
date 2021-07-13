@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 神策数据内推~~~
-
-[关于神策](https://www.sensorsdata.cn/)
-
 #### 联系我
 
 微信：xl283273332
