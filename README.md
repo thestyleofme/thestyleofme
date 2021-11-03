@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 #### 联系我
 
-阿里、蚂蚁可内推~
+蚂蚁可内推
 
 微信：xl283273332
